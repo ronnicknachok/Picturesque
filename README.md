@@ -15,7 +15,20 @@ You can now run the app.
 ## Demonstration
 This is how the app looks when running.
 
-
-
 https://user-images.githubusercontent.com/28990386/216254752-84897dbe-9f68-4781-afe3-0ee879f331aa.mp4
 
+## Functional Requirements
+The app has the following Functional Requirements:
+* Provide an interface for inputting search terms
+* Display 25 results for the given search term, including a thumbnail of the image and the title Selecting a thumbnail or title displays the full photo
+* Provide a way to return to the search results
+* Provide a way to search for another term
+* Ability to bookmark and view images offline
+* Page results (allowing more than the initial 25 to be displayed)
+* Save prior search terms and present them as quick search options
+
+## Technical Requirements
+The app has the following Technical Requirements:
+* Make all calls to the Flickr REST API
+* Consume all API content in JSON
+* Use your own code to communicate with the Flickr API (Use of other third party libraries is okay)
