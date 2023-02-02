@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Picturesque</string>
+    <string name="nike_sneakers">Nike Sneakers</string>
+    <string name="national_parks">National Parks</string>
+    <string name="trending">Trending Photos</string>
+    <string name="bookmarks">Your Bookmarks</string>
+    <string name="search_text">Search Photos…</string>
+    <string name="remove_photo">Remove Photo</string>
+    <string name="deletion_message_bookmarks">Are you sure you want to remove this photo from your bookmarks?</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="appbar_text_bookmarks">Bookmarks</string>
+    <string name="empty_bookmarks_text">Nothing to see here</string>
+    <string name="data">Photo Metadata</string>
+    <string name="detail_screen_title">Photo Details</string>
+    <string name="share_image">Share Photo</string>
+    <string name="no_metadata">No Data Available</string>
+    <string name="add_favorite">Add to Bookmarks</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="offline_text">You\'re Offline</string>
+    <string name="image_removed">Image Removed</string>
+    <string name="undo">UNDO</string>
+    <string name="share_using">Share Using</string>
+    <string name="added_favorite">Added to Bookmarks</string>
+</resources>
