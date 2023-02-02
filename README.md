@@ -12,7 +12,7 @@ Once the file is created we need to add the following line of code to the file :
 
 You can now run the app.
 
-##Demonstration
+## Demonstration
 This is how the app looks when running.
 
 
